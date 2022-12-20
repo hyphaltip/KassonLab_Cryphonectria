@@ -1,2 +1,3 @@
-# KassonLab_Verticillium
-Verticillium genomes project with Matt Kasson lab (WVU)
+# KassonLab Cryphonectria
+
+Cryphonectria genomes project with Matt Kasson lab (WVU)
