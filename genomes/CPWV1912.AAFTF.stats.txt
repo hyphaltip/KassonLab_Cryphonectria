@@ -1,0 +1,15 @@
+Assembly statistics for: genomes/CPWV1912.AAFTF.fasta
+   CONTIG COUNT  =  2988
+   TOTAL LENGTH  =  50251097
+            MIN  =  500
+            MAX  =  673900
+         MEDIAN  =  651
+           MEAN  =  16817.64
+            L50  =  82
+            N50  =  187023
+            L90  =  301
+            N90  =  32509
+            GC%  =  50.96
+  T2T SCAFFOLDS  =  0
+   TELOMERE FWD  =  11
+   TELOMERE REV  =  11
